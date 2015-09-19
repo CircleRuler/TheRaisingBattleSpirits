@@ -1,2 +1,2 @@
-���ڵľ����ǣ����˺�ϵͳ�ľ���ֵ�ĳ�Guild of Dungeoneering���ַ��ġ�
-����������ͼƬ��
+﻿现在的决定是，把伤害系统的具体值改成Guild of Dungeoneering那种风格的。
+卡框的设想见图片。
